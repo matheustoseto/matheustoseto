@@ -22,7 +22,7 @@
         automation: ["Apache Maven", "Apache Ant", "Grunt", "Jenkins"]
     },
     engine: ["Unity"],
-    design: ["UX", "UI", "Mobile", "Pixel Art"],
+    design: ["UX", "UI"],
     tools: ["Eclipse IDE","VS Code IDE", "PostMan", "Insomnia", "GitKraken"]
 }
 
