@@ -9,13 +9,13 @@
         front_end: {
             css: ["Bootstrap"],
             html: ["Pug Template"],
-            framework: ["AngularJS 1.x", "React Native", "PrimeFaces", "JSP"],
+            framework: ["AngularJS 1.x", "React Native", "Nextjs", "PrimeFaces", "JSP"],
             libs: ["Jquery", "ReactJS"]
         },
         back_end: {
-            framework: ["Spring MVC", "Spring Boot", "Node js"]
+            framework: ["Spring MVC", "Spring Boot", "Spring Admin", "Spring Security", "Nodejs"]
         },
-        databases: ["Oracle SQL", "MySQL", "PostgreSQL", "MongoDB"],
+        databases: ["Oracle SQL", "MySQL", "PostgreSQL", "MongoDB", "DynamoDB"],
         gateway: ["Oracle API Gateway"],
         infrastructure: ["Red Hat Linux", "Oracle HTTP Server", "Oracle WebLogic Server", "Oracle WebLogic Portal"],
         bus: ["Oracle Service Bus"],
